@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: This is just a test
-  introMessage: This is just an intro message
+  introMessage: This is just an intro message...
   navbar:
     - title: Status
       href: /
