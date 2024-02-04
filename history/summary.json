@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 70,
+    "time": 71,
+    "timeDay": 67,
     "timeWeek": 69,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 179,
-    "timeWeek": 169,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 166,
+    "timeDay": 382,
+    "timeWeek": 203,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 271,
-    "timeWeek": 318,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 311,
+    "timeDay": 406,
+    "timeWeek": 334,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-home-page",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 684,
-    "timeDay": 910,
-    "timeWeek": 714,
-    "timeMonth": 684,
-    "timeYear": 684,
-    "dailyMinutesDown": {
-      "2024-02-03": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 687,
+    "timeDay": 964,
+    "timeWeek": 724,
+    "timeMonth": 687,
+    "timeYear": 687,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PCNA production Search page",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 3579,
-    "timeDay": 3049,
-    "timeWeek": 3595,
-    "timeMonth": 3579,
-    "timeYear": 3579,
-    "dailyMinutesDown": {
-      "2024-02-03": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3681,
+    "timeDay": 3577,
+    "timeWeek": 3704,
+    "timeMonth": 3681,
+    "timeYear": 3681,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PCNA production product detail page",
@@ -99,18 +95,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-product-detail-page",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 771,
-    "timeDay": 587,
-    "timeWeek": 749,
-    "timeMonth": 771,
-    "timeYear": 771,
-    "dailyMinutesDown": {
-      "2024-02-03": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 777,
+    "timeDay": 594,
+    "timeWeek": 734,
+    "timeMonth": 777,
+    "timeYear": 777,
+    "dailyMinutesDown": {}
   }
 ]
