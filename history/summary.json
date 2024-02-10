@@ -58,19 +58,19 @@
     "url": "https://www.pcna.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-home-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 656,
-    "timeDay": 407,
-    "timeWeek": 699,
-    "timeMonth": 656,
-    "timeYear": 656,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 657,
+    "timeDay": 495,
+    "timeWeek": 697,
+    "timeMonth": 657,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 7
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://www.pcna.com/en-us/search?sort=3",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3604,
-    "timeDay": 1846,
-    "timeWeek": 3473,
-    "timeMonth": 3604,
-    "timeYear": 3604,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3667,
+    "timeDay": 2932,
+    "timeWeek": 3622,
+    "timeMonth": 3667,
+    "timeYear": 3667,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 7
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://www.pcna.com/en-us/product/durahyde-zippered-padfolio-0600-10",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-product-detail-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 429,
-    "timeWeek": 674,
-    "timeMonth": 756,
-    "timeYear": 756,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 758,
+    "timeDay": 555,
+    "timeWeek": 686,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 7
     }
   }
 ]
