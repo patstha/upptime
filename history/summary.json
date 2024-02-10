@@ -58,53 +58,59 @@
     "url": "https://www.pcna.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 682,
-    "timeDay": 714,
-    "timeWeek": 766,
-    "timeMonth": 682,
-    "timeYear": 682,
-    "dailyMinutesDown": {}
+    "time": 656,
+    "timeDay": 407,
+    "timeWeek": 699,
+    "timeMonth": 656,
+    "timeYear": 656,
+    "dailyMinutesDown": {
+      "2024-02-10": 0
+    }
   },
   {
     "name": "PCNA production Search page",
     "url": "https://www.pcna.com/en-us/search?sort=3",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3767,
-    "timeDay": 3665,
-    "timeWeek": 3856,
-    "timeMonth": 3767,
-    "timeYear": 3767,
-    "dailyMinutesDown": {}
+    "time": 3604,
+    "timeDay": 1846,
+    "timeWeek": 3473,
+    "timeMonth": 3604,
+    "timeYear": 3604,
+    "dailyMinutesDown": {
+      "2024-02-10": 0
+    }
   },
   {
     "name": "PCNA production product detail page",
     "url": "https://www.pcna.com/en-us/product/durahyde-zippered-padfolio-0600-10",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-product-detail-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 829,
-    "timeWeek": 746,
-    "timeMonth": 789,
-    "timeYear": 789,
-    "dailyMinutesDown": {}
+    "time": 756,
+    "timeDay": 429,
+    "timeWeek": 674,
+    "timeMonth": 756,
+    "timeYear": 756,
+    "dailyMinutesDown": {
+      "2024-02-10": 0
+    }
   }
 ]
