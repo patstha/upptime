@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 84,
-    "timeWeek": 135,
-    "timeMonth": 103,
-    "timeYear": 101,
+    "time": 102,
+    "timeDay": 148,
+    "timeWeek": 87,
+    "timeMonth": 105,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 228,
-    "timeWeek": 170,
-    "timeMonth": 184,
+    "timeDay": 193,
+    "timeWeek": 193,
+    "timeMonth": 185,
     "timeYear": 180,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,16 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 232,
-    "timeWeek": 260,
-    "timeMonth": 267,
-    "timeYear": 267,
-    "dailyMinutesDown": {
-      "2024-02-25": 7
-    }
+    "time": 269,
+    "timeDay": 313,
+    "timeWeek": 283,
+    "timeMonth": 265,
+    "timeYear": 269,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PCNA production home page",
@@ -67,9 +65,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
     "time": 665,
-    "timeDay": 915,
-    "timeWeek": 697,
-    "timeMonth": 668,
+    "timeDay": 674,
+    "timeWeek": 706,
+    "timeMonth": 669,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2024-02-22": 43
@@ -86,11 +84,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
-    "time": 4063,
-    "timeDay": 5668,
-    "timeWeek": 4569,
-    "timeMonth": 4098,
-    "timeYear": 4063,
+    "time": 4110,
+    "timeDay": 5992,
+    "timeWeek": 4670,
+    "timeMonth": 4168,
+    "timeYear": 4110,
     "dailyMinutesDown": {
       "2024-02-22": 42
     }
@@ -101,16 +99,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-product-detail-page",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 793,
-    "timeDay": 909,
-    "timeWeek": 834,
-    "timeMonth": 789,
-    "timeYear": 793,
+    "uptimeYear": "99.92%",
+    "time": 795,
+    "timeDay": 872,
+    "timeWeek": 849,
+    "timeMonth": 792,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2024-02-22": 41
     }
