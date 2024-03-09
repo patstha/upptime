@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 86,
-    "timeWeek": 76,
-    "timeMonth": 106,
+    "timeDay": 81,
+    "timeWeek": 77,
+    "timeMonth": 104,
     "timeYear": 96,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 176,
-    "timeDay": 224,
-    "timeWeek": 152,
-    "timeMonth": 179,
-    "timeYear": 176,
+    "time": 177,
+    "timeDay": 221,
+    "timeWeek": 171,
+    "timeMonth": 183,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
+    "time": 277,
     "timeDay": 351,
-    "timeWeek": 270,
-    "timeMonth": 272,
-    "timeYear": 276,
+    "timeWeek": 298,
+    "timeMonth": 278,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
-    "time": 685,
-    "timeDay": 730,
-    "timeWeek": 774,
-    "timeMonth": 684,
-    "timeYear": 685,
+    "time": 688,
+    "timeDay": 841,
+    "timeWeek": 798,
+    "timeMonth": 692,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2024-02-22": 43
     }
@@ -79,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.93%",
-    "time": 4045,
-    "timeDay": 3946,
-    "timeWeek": 3775,
-    "timeMonth": 4202,
-    "timeYear": 4045,
+    "uptimeYear": "99.94%",
+    "time": 4030,
+    "timeDay": 3199,
+    "timeWeek": 3702,
+    "timeMonth": 4189,
+    "timeYear": 4030,
     "dailyMinutesDown": {
       "2024-02-22": 42
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.94%",
-    "time": 792,
-    "timeDay": 691,
-    "timeWeek": 750,
-    "timeMonth": 794,
-    "timeYear": 792,
+    "time": 791,
+    "timeDay": 736,
+    "timeWeek": 737,
+    "timeMonth": 793,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-02-22": 41
     }
