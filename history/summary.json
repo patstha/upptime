@@ -79,7 +79,7 @@
     "url": "https://www.pcna.com/en-us/search?sort=3",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -91,6 +91,7 @@
     "timeMonth": 4547,
     "timeYear": 4224,
     "dailyMinutesDown": {
+      "2024-04-09": 0,
       "2024-03-16": 26,
       "2024-02-22": 42
     }
