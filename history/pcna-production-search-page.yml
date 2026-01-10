@@ -1,7 +1,7 @@
 url: https://www.pcna.com/en-us/search?sort=3
-status: up
-code: 200
-responseTime: 1756
-lastUpdated: 2026-01-09T23:25:44.942Z
+status: down
+code: 503
+responseTime: 1251
+lastUpdated: 2026-01-10T04:06:09.465Z
 startTime: 2024-01-23T12:58:13.016Z
 generator: Upptime <https://github.com/upptime/upptime>
