@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 138,
-    "timeDay": 95,
-    "timeWeek": 114,
-    "timeMonth": 126,
+    "timeDay": 93,
+    "timeWeek": 115,
+    "timeMonth": 127,
     "timeYear": 144,
     "dailyMinutesDown": {
       "2026-01-27": 23,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
-    "timeDay": 82,
-    "timeWeek": 134,
-    "timeMonth": 160,
+    "timeDay": 209,
+    "timeWeek": 148,
+    "timeMonth": 162,
     "timeYear": 200,
     "dailyMinutesDown": {}
   },
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 323,
-    "timeDay": 476,
-    "timeWeek": 403,
-    "timeMonth": 297,
+    "timeDay": 313,
+    "timeWeek": 386,
+    "timeMonth": 296,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2025-05-27": 18,
@@ -68,15 +68,15 @@
     "slug": "pcna-production-home-page",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "92.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.80%",
-    "time": 780,
-    "timeDay": 487,
-    "timeWeek": 611,
-    "timeMonth": 610,
-    "timeYear": 711,
+    "time": 779,
+    "timeDay": 467,
+    "timeWeek": 582,
+    "timeMonth": 602,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2026-04-10": 114,
       "2026-03-31": 103,
@@ -97,8 +97,7 @@
       "2025-08-30": 17,
       "2025-06-21": 17,
       "2025-05-10": 21,
-      "2025-04-28": 16,
-      "2025-04-12": 16
+      "2025-04-28": 16
     }
   },
   {
@@ -108,15 +107,15 @@
     "slug": "pcna-production-search-page",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "92.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.80%",
-    "time": 2640,
-    "timeDay": 1427,
-    "timeWeek": 2072,
-    "timeMonth": 2105,
-    "timeYear": 2169,
+    "time": 2638,
+    "timeDay": 2139,
+    "timeWeek": 1862,
+    "timeMonth": 2101,
+    "timeYear": 2165,
     "dailyMinutesDown": {
       "2026-04-10": 114,
       "2026-03-31": 103,
@@ -137,8 +136,7 @@
       "2025-08-30": 17,
       "2025-06-21": 17,
       "2025-05-10": 21,
-      "2025-04-28": 15,
-      "2025-04-12": 16
+      "2025-04-28": 15
     }
   },
   {
@@ -148,15 +146,15 @@
     "slug": "pcna-production-product-detail-page",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "92.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.87%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.67%",
-    "time": 549,
-    "timeDay": 345,
-    "timeWeek": 332,
-    "timeMonth": 298,
-    "timeYear": 328,
+    "time": 548,
+    "timeDay": 224,
+    "timeWeek": 298,
+    "timeMonth": 296,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2026-04-10": 114,
       "2026-03-31": 103,
@@ -176,8 +174,7 @@
       "2025-08-30": 17,
       "2025-07-25": 744,
       "2025-06-21": 17,
-      "2025-05-10": 21,
-      "2025-04-12": 16
+      "2025-05-10": 21
     }
   }
 ]
