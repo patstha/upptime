@@ -64,17 +64,17 @@
     "url": "https://www.pcna.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-home-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 745,
-    "timeDay": 500,
-    "timeWeek": 660,
-    "timeMonth": 706,
-    "timeYear": 708,
+    "time": 744,
+    "timeDay": 279,
+    "timeWeek": 585,
+    "timeMonth": 686,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-08-30": 17,
       "2025-11-08": 20,
@@ -93,7 +93,8 @@
       "2026-02-27": 67,
       "2026-03-31": 103,
       "2026-04-10": 114,
-      "2026-04-27": 159
+      "2026-04-27": 159,
+      "2026-06-27": 1
     }
   },
   {
@@ -101,17 +102,17 @@
     "url": "https://www.pcna.com/en-us/search?sort=3",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-search-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2464,
-    "timeDay": 2751,
-    "timeWeek": 2390,
-    "timeMonth": 2275,
-    "timeYear": 2029,
+    "time": 2458,
+    "timeDay": 1445,
+    "timeWeek": 2109,
+    "timeMonth": 2208,
+    "timeYear": 2024,
     "dailyMinutesDown": {
       "2025-08-30": 17,
       "2025-11-08": 20,
@@ -130,7 +131,8 @@
       "2026-02-27": 67,
       "2026-03-31": 103,
       "2026-04-10": 114,
-      "2026-04-27": 159
+      "2026-04-27": 159,
+      "2026-06-27": 0
     }
   },
   {
@@ -138,17 +140,17 @@
     "url": "https://www.pcna.com/en-us/product/durahyde-zippered-padfolio-0600-10",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-product-detail-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 491,
-    "timeDay": 462,
-    "timeWeek": 447,
-    "timeMonth": 405,
-    "timeYear": 298,
+    "time": 493,
+    "timeDay": 868,
+    "timeWeek": 551,
+    "timeMonth": 433,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2025-07-25": 744,
       "2025-08-30": 17,
@@ -167,7 +169,8 @@
       "2026-02-27": 67,
       "2026-03-31": 103,
       "2026-04-10": 114,
-      "2026-04-27": 159
+      "2026-04-27": 159,
+      "2026-06-27": 0
     }
   }
 ]
