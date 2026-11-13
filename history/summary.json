@@ -65,16 +65,16 @@
     "url": "https://www.pcna.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.pcna.com.ico",
     "slug": "pcna-production-home-page",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.71%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "81.54%",
+    "uptimeWeek": "97.36%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.68%",
     "time": 744,
-    "timeDay": 19501,
-    "timeWeek": 3506,
-    "timeMonth": 1391,
+    "timeDay": 10127,
+    "timeWeek": 3162,
+    "timeMonth": 1372,
     "timeYear": 772,
     "dailyMinutesDown": {
       "2025-11-18": 132,
@@ -95,7 +95,7 @@
       "2026-06-27": 191,
       "2026-08-19": 38,
       "2026-09-15": 187,
-      "2026-11-13": 90
+      "2026-11-13": 266
     }
   },
   {
